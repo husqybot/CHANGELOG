@@ -38,6 +38,7 @@
 #### [Bugfixes]
 
 - Fixed Queue embed bug
+- Fixed nowplaying embed auto delete time when auto_delete is under 20 seconds
 - Fixed bug where some messages with components would not send
 - Fix for Channel updates logging not working when updating permissions
 
