@@ -1,6 +1,8 @@
 ## [Unreleased/Working on]
 
-### [1.12.0] - T.B.D.
+## [Released]
+
+### [1.12.0] - 02-01-2023
 
 #### [NEW]
 
@@ -42,8 +44,6 @@
 - Fixed nowplaying embed auto delete time when auto_delete is under 20 seconds
 - Fixed bug where some messages with components would not send
 - Fix for Channel updates logging not working when updating permissions
-
-## [Released]
 
 ### [1.11.3] - 28-11-2022
 
