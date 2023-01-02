@@ -16,10 +16,11 @@
 - Added `/loop` command to toggle if a song loops
 - Added logging to user joining, leaving and moving voice channels
 - Added `/utils custom_modal create` and `/utils custom_modal preview` commands
+- Added support for Forum Channels in `/info channel` command
 
 #### [BREAKING]
 
-- Bump hikari to 2.0.0.dev113
+- Bump hikari to 2.0.0.dev114
 - Removed all `/password` commands!
 - Migrate `/socials {components}` commands to `/settings module configure`
   - Because of this migration, only admins can add, remove or list accounts
