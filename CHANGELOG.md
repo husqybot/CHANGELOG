@@ -8,8 +8,8 @@
 - Added Ticket module
 - Added Reddit monitoring to the socials module
   - Added `/socials reddit` command
-- Added `/play tts` command
-- Added audio playback support for TikTok, Reddit and PornHub
+- Added `/play tts` command (Experimental!)
+- Added audio playback support for TikTok, Reddit and PornHub (Experimental!)
 - Added `/mod_user vckick` and `/mod_user move` commands
 - Added `/mod_server lock` and `/mod_server unlock` commands
 - Added new label to `/support submit` > Code Cleanup
