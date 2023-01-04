@@ -1,5 +1,10 @@
 ## [Unreleased/Working on]
 
+### [1.12.2] - T.B.D.
+
+#### [NEW]
+- Command parameters which requires a channel to be selected, are now only showing the channel types which are allowed to be selected
+
 ## [Released]
 
 ### [1.12.1] - 03-01-2023
