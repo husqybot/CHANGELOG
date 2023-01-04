@@ -4,6 +4,7 @@
 
 #### [NEW]
 - Command parameters which requires a channel to be selected, are now only showing the channel types which are allowed to be selected
+- `/play radio {country code} {radiostation}` is now changed to `/play radio {radiostation}` and uses TuneIn for radiostations. The radiostation parameter uses Discord Autocomplete! 
 
 ## [Released]
 
