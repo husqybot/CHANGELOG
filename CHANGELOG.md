@@ -1,5 +1,16 @@
 ## [Unreleased/Working on]
 
+### [1.12.3] - T.B.D.
+
+#### [BREAKING]
+
+- Migrate `/reaction_roles configure` command to `/settings module configure` (Note: Make sure to select the reaction roles module!)
+
+#### [Bugfixes]
+
+- Fix for some message components (like buttons) on module functions not working
+- Add credits/attribution for TuneIn radio
+
 ## [Released]
 
 ### [1.12.2] - 04-01-2023
