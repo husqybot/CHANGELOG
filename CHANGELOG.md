@@ -1,20 +1,27 @@
 ## [Unreleased/Working on]
 
-### [1.12.2] - T.B.D.
+## [Released]
+
+### [1.12.2] - 04-01-2023
 
 #### [NEW]
-- Command parameters which requires a channel to be selected, are now only showing the channel types which are allowed to be selected
-- `/play radio {country code} {radiostation}` is now changed to `/play radio {radiostation}` and uses TuneIn for radiostations. The radiostation parameter uses Discord Autocomplete! 
 
-## [Released]
+- Command parameters which requires a channel to be selected, are now only showing the channel types which are allowed to be selected
+- `/play radio {country code} {radiostation}` is now changed to `/play radio {radiostation}` and uses TuneIn for radiostations. The radiostation parameter uses Discord Autocomplete!
+
+#### [Bugfixes]
+
+- Fix for some message components (like buttons) not working
 
 ### [1.12.1] - 03-01-2023
 
 #### [NEW]
+
 - Added logging for: `User server mute`, `User server unmute`, `User server deafend`, `User server undeafend`, `User self deafend`, `User self undeafend`, `User self muted`, `User self unmuted`, `User started streaming`, `User stopped streaming`, `User turned on camera`, `User turned off camera`
 - Voice channel is now mentioned in logging when Husqy joins a channel
 
 #### [Bugfixes]
+
 - Fix for `User join` logging event triggering when a user muted, deafend, started streaming, etc.
 - Fix for socials configuration wizard reddit button not working
 
