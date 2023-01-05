@@ -2,6 +2,10 @@
 
 ### [1.12.3] - T.B.D.
 
+#### [NEW]
+
+- Added `/utils color view` command to view colors based on a given HEX or RGB value
+
 #### [BREAKING]
 
 - Migrate `/reaction_roles configure` command to `/settings module configure` (Note: Make sure to select the reaction roles module!)
