@@ -5,6 +5,7 @@
 #### [NEW]
 
 - Added `/utils color view` command to view colors based on a given HEX or RGB value
+- Added `/volume` command to change volume of the audio Husqy plays for all members (NOTE: This is different from the individual sound slider that users have!)
 
 #### [BREAKING]
 
