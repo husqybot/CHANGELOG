@@ -1,5 +1,7 @@
 ## [Unreleased/Working on]
 
+## [Released]
+
 ### [1.12.3] - T.B.D.
 
 #### [NEW]
@@ -15,8 +17,6 @@
 
 - Fix for some message components (like buttons) on module functions not working
 - Add credits/attribution for TuneIn radio
-
-## [Released]
 
 ### [1.12.2] - 04-01-2023
 
