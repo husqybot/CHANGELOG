@@ -2,6 +2,10 @@
 
 ### [1.12.4] - T.B.D.
 
+#### [NEW]
+
+- Changed the way voice channel logging handles Husqy tempchannels
+
 #### [Bugfixes]
 
 - Fix for Kick Role
