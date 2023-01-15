@@ -5,6 +5,7 @@
 #### [NEW]
 
 - Changed the way voice channel logging handles Husqy tempchannels
+- Added the command `/restart_song` te restart the song from the beginning
 
 #### [Bugfixes]
 
