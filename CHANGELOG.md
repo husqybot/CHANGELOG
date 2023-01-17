@@ -1,6 +1,8 @@
 ## [Unreleased/Working on]
 
-### [1.12.4] - T.B.D.
+## [Released]
+
+### [1.12.4] - 17-01-2023
 
 #### [NEW]
 
@@ -14,8 +16,6 @@
 #### [Bugfixes]
 
 - Fix for Kick Role
-
-## [Released]
 
 ### [1.12.3] - 06-01-2023
 
