@@ -7,6 +7,10 @@
 - Changed the way voice channel logging handles Husqy tempchannels
 - Added the command `/restart_song` te restart the song from the beginning
 
+#### [Changes]
+
+- Removed `/admin restart` command (support server and Husqy owner only!)
+
 #### [Bugfixes]
 
 - Fix for Kick Role
