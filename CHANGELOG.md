@@ -1,5 +1,19 @@
 ## [Unreleased/Working on]
 
+### [1.12.5] - T.B.D.
+
+#### [NEW]
+
+- Better server timezone settings (you can now choose all timezones, not only GMT offsets! f.e. Europe/Amsterdam)
+- Added support for Forum channel creation in `/mod_server channel_create` command
+
+#### [Changes]
+
+- Removed `/admin unblock` and `/admin block` commands (support server and Husqy owner only!)
+- Added a cooldown to the `/support submit` command (command can now be used 2x per 5 min. per user)
+- Fix for `/reminder list` command
+- Fix for `/info` and `/host` commands
+
 ## [Released]
 
 ### [1.12.4] - 17-01-2023
