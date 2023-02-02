@@ -1,6 +1,8 @@
 ## [Unreleased/Working on]
 
-### [1.12.5] - T.B.D.
+## [Released]
+
+### [1.12.5] - 02-02-2023
 
 #### [NEW]
 
@@ -13,8 +15,6 @@
 - Added a cooldown to the `/support submit` command (command can now be used 2x per 5 min. per user)
 - Fix for `/reminder list` command
 - Fix for `/info` and `/host` commands
-
-## [Released]
 
 ### [1.12.4] - 17-01-2023
 
