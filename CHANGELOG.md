@@ -1,5 +1,17 @@
 ## [Unreleased/Working on]
 
+### [1.13.0] - T.B.D.
+
+#### [NEW]
+
+- Add new module ServerStats
+  - Added support for Counter Panels
+  - Added Starboard functionality
+
+#### [Changes]
+
+- Added extra activities
+
 ## [Released]
 
 ### [1.12.5] - 02-02-2023
