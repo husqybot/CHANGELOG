@@ -18,6 +18,10 @@
 - Added extra activities
 - Added database function to delete metrics that are older than 5 days
 
+#### [Bugfixes]
+
+- Implement a fix for music and radio not working well together
+
 ## [Released]
 
 ### [1.12.5] - 02-02-2023
