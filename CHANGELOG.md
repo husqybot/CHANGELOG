@@ -1,6 +1,8 @@
 ## [Unreleased/Working on]
 
-### [1.13.0] - T.B.D.
+## [Released]
+
+### [1.13.0] - 11-02-2023
 
 #### [NEW]
 
@@ -21,8 +23,6 @@
 #### [Bugfixes]
 
 - Implement a fix for music and radio not working well together
-
-## [Released]
 
 ### [1.12.5] - 02-02-2023
 
