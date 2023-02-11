@@ -6,6 +6,10 @@
 
 - Added new ServerStats module to `/info` command
 
+#### [Bugfixes]
+
+- Fix for logging channel updates if serverstats module is disabled
+
 ## [Released]
 
 ### [1.13.0] - 11-02-2023
