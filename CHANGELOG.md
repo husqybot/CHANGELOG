@@ -1,5 +1,11 @@
 ## [Unreleased/Working on]
 
+### [1.13.1] - T.B.D.
+
+#### [NEW]
+
+- Added new ServerStats module to `/info` command
+
 ## [Released]
 
 ### [1.13.0] - 11-02-2023
