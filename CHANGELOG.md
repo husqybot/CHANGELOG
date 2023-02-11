@@ -8,9 +8,15 @@
   - Added support for Counter Panels
   - Added Starboard functionality
 
+#### [BREAKING]
+
+- Migrate select compontents to SelectsV2
+  - Currently the Autoresponder module is not migrated and still is text input based because of limitations by Discord (only a max of 25 channels/roles/users can be selected)
+
 #### [Changes]
 
 - Added extra activities
+- Added database function to delete metrics that are older than 5 days
 
 ## [Released]
 
