@@ -6,9 +6,14 @@
 
 - Added new ServerStats module to `/info` command
 
+#### [BREAKING]
+- Migrated `/info` subcommands to `/info` command (No subcommands anymore!)
+- Migrated the `/info` commands to SelectsV2
+
 #### [Bugfixes]
 
 - Fix for logging channel updates if serverstats module is disabled
+- Fix for user greetings (to user) embeds not working
 
 ## [Released]
 
