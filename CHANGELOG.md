@@ -9,6 +9,7 @@
 #### [BREAKING]
 - Migrated `/info` subcommands to `/info` command (No subcommands anymore!)
 - Migrated the `/info` commands to SelectsV2
+- Migrated serverstats module configurations to SelectsV2
 
 #### [Bugfixes]
 
