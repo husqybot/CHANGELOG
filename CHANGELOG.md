@@ -6,6 +6,7 @@
 
 - Added new ServerStats module to `/info` command
 - Added Command Usage statistics to ServerStats module!
+- Changed the way of formatting time in the logging module
 
 #### [BREAKING]
 - Migrated `/info` subcommands to `/info` command (No subcommands anymore!)
