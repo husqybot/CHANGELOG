@@ -1,5 +1,11 @@
 ## [Unreleased/Working on]
 
+### [1.xx.x] - T.B.D.
+
+#### [Bugfixes]
+
+- Fix for starboard messages not being created when reacting to a message very quickly after it being sent!
+
 ## [Released]
 
 ### [1.13.1] - 04-03-2023
