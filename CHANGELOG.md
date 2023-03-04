@@ -6,12 +6,18 @@
 
 - Added new ServerStats module to `/info` command
 - Added Command Usage statistics to ServerStats module!
-- Changed the way of formatting time in the logging module
 
 #### [BREAKING]
 - Migrated `/info` subcommands to `/info` command (No subcommands anymore!)
 - Migrated the `/info` commands to SelectsV2
 - Migrated serverstats module configurations to SelectsV2
+- Removed `/support submit`, please use the official Husqy website or the official Husqy Support Discord server
+
+#### [Changes]
+
+- Changed max Twitter accounts and Subreddits to 5 (previously 3)
+- Changed the way of formatting time in the logging module
+- Changed support command
 
 #### [Bugfixes]
 
