@@ -23,6 +23,7 @@
 
 - Fix for logging channel updates if serverstats module is disabled
 - Fix for user greetings (to user) embeds not working
+- Check on channel delete if the deleted channel is a counter panel, if yes, safely remove from config (Note: DO NOT delete the category, this will cause issues!)
 
 ## [Released]
 
