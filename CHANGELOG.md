@@ -5,6 +5,7 @@
 #### [NEW]
 
 - Added new ServerStats module to `/info` command
+- Added Command Usage statistics to ServerStats module!
 
 #### [BREAKING]
 - Migrated `/info` subcommands to `/info` command (No subcommands anymore!)
