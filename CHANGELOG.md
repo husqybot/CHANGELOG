@@ -5,6 +5,7 @@
 #### [Bugfixes]
 
 - Fix for starboard messages not being created when reacting to a message very quickly after it being sent!
+- Fix for reaction role deleting not finishing correctly!
 
 ## [Released]
 
