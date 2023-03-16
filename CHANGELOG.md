@@ -7,6 +7,7 @@
 - Fix for starboard messages not being created when reacting to a message very quickly after it being sent!
 - Fix for reaction role configuration not working correctly!
 - Fix for reaction role module not giving out roles and delete the reaction role from the message!
+- Fix for starboard when Serverstats module is disabled (Internal logging fix)
 
 ## [Released]
 
