@@ -1,6 +1,8 @@
 ## [Unreleased/Working on]
 
-### [1.13.2] - T.B.D.
+## [Released]
+
+### [1.13.2] - 17-03-2023
 
 #### [Bugfixes]
 
@@ -10,8 +12,6 @@
 - Fix for starboard when Serverstats module is disabled (Internal logging fix)
 - NOTE: Testing fix for Reddit monitor of Socials module stoppping unexpectedly (This is in testing and may still not work!)
 - NOTE: Testing fix for Twitter monitor of Socials module stoppping unexpectedly (This is in testing and may still not work!)
-
-## [Released]
 
 ### [1.13.1] - 04-03-2023
 
