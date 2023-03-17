@@ -1,6 +1,6 @@
 ## [Unreleased/Working on]
 
-### [1.xx.x] - T.B.D.
+### [1.13.2] - T.B.D.
 
 #### [Bugfixes]
 
@@ -8,7 +8,8 @@
 - Fix for reaction role configuration not working correctly!
 - Fix for reaction role module not giving out roles and delete the reaction role from the message!
 - Fix for starboard when Serverstats module is disabled (Internal logging fix)
-- Testing fix for Reddit monitor of Socials module stoppping unexpectedly (This is in testing and may still not work!)
+- NOTE: Testing fix for Reddit monitor of Socials module stoppping unexpectedly (This is in testing and may still not work!)
+- NOTE: Testing fix for Twitter monitor of Socials module stoppping unexpectedly (This is in testing and may still not work!)
 
 ## [Released]
 
