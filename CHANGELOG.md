@@ -1,5 +1,13 @@
 ## [Unreleased/Working on]
 
+### [1.xx.x] - T.B.D.
+
+#### [Bugfixes]
+
+- Bumped dependencies
+- Fixed ban command after dependency update
+- Fixed Greetings failing when not using `In server greetings`, `Role on Join` and `In server leave taking`
+
 ## [Released]
 
 ### [1.13.2] - 17-03-2023
