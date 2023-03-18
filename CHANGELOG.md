@@ -7,6 +7,10 @@
 - Bumped dependencies
 - Fixed ban command after dependency update
 - Fixed Greetings failing when not using `In server greetings`, `Role on Join` and `In server leave taking`
+- Fixed Tickets module not deleting old configuration messages properly
+- Fixed Tickets module not checking for limit of 25 custom types causing a failing Tickets module
+- Fixed Tickets module channel selection not promting the desired channel types in the select
+- Fixed ServerStats module not allowing to add or delete panels
 
 ## [Released]
 
