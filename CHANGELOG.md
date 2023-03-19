@@ -5,6 +5,7 @@
 #### [Changes]
 
 - Improved embed sidebar coloring to be inline with the Husqy color
+- Cleanup starting code (internal)
 
 #### [Bugfixes]
 
