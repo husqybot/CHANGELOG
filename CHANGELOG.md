@@ -2,6 +2,10 @@
 
 ### [1.xx.x] - T.B.D.
 
+#### [Changes]
+
+- Improved embed sidebar coloring to be inline with the Husqy color
+
 #### [Bugfixes]
 
 - Bumped dependencies
