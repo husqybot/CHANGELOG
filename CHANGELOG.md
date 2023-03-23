@@ -2,6 +2,9 @@
 
 ### [1.xx.x] - T.B.D.
 
+#### [BREAKING]
+- Changed the way auto kick is handled, server MUST now insert the desired role to use for auto kick (This can be done using the new parameter `auto_kick_role_id` in the `/settings update moderation` command). The default is no role so auto kick WILL NOT work if servers don't change this! You can also safely remove the previous default Husqy auto kick role since that is now not being used!
+
 #### [Changes]
 
 - Improved embed sidebar coloring to be inline with the Husqy color
