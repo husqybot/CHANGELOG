@@ -6,6 +6,7 @@
 
 - Added giveaway functionality (`/giveaway`)!
 - Added Message Statistcs to the `ServerStats` module!
+- Added the ability to send tags by tagging Husqy. To do this use `@Husqy tag "tag_name"`, make sure the `@Husqy` is a tag end not text!
 
 #### [BREAKING]
 
