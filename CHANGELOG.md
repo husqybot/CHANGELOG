@@ -7,6 +7,7 @@
 - Added giveaway functionality (`/giveaway`)!
 - Added Message Statistcs to the `ServerStats` module!
 - Added the ability to send tags by tagging Husqy. To do this use `@Husqy tag "tag_name"`, make sure the `@Husqy` is a tag, NOT text!
+- Added the ability to check the safety of domains using the new `/utils domain validate_safety` command! This command can be used 2x/user every 5 minutes!
 
 #### [BREAKING]
 
