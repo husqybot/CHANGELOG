@@ -30,6 +30,7 @@
 - Fixed ServerStats module not allowing to add or delete panels
 - Fixed an issue where embeds of users without any statistics would fail
 - Fixed an issue where embeds of server without any statistics would fail
+- Fixed an issue where deleted reactions would cause an error
 
 ## [Released]
 
