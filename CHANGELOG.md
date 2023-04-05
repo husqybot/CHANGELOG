@@ -8,6 +8,7 @@
 - Added Message Statistcs to the `ServerStats` module!
 - Added the ability to send tags by tagging Husqy. To do this use `@Husqy tag "tag_name"`, make sure the `@Husqy` is a tag, NOT text!
 - Added the ability to check the safety of domains using the new `/utils domain validate_safety` command! This command can be used 2x/user every 5 minutes!
+- Added the ability to generate QR-cide with the new `/utils generate_qr` command!
 
 #### [BREAKING]
 
@@ -19,6 +20,7 @@
 - Improved embed sidebar coloring to be inline with the Husqy color
 - Cleanup starting code (internal)
 - Improved logging (internal)
+- Added missing footer to bot info embeds with graphs
 
 #### [Bugfixes]
 
