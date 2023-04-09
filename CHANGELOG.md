@@ -14,6 +14,14 @@
 
 - Changed the way auto kick is handled, server MUST now insert the desired role to use for auto kick (This can be done using the new parameter `auto_kick_role_id` in the `/settings update moderation` command). The default is no role so auto kick WILL NOT work if servers don't change this! You can also safely remove the previous default Husqy auto kick role since that is now not being used!
 - Bumped dependencies
+- Changed permissions required for some commands:
+  - `/giveaway create`: Manage Server > No Permissions required;
+  - `/settings modules enable`: Manage Server > Adminstrator;
+  - `/settings modules disable`: Manage Server > Adminstrator;
+  - `/settings modules configure`: Manage Server > Adminstrator;
+  - `/settings update general`: Manage Server > Adminstrator;
+  - `/settings update moderation`: Manage Server > Adminstrator;
+  - `/settings update invite_link`: No Permissions required > Adminstrator;
 
 #### [Changes]
 
