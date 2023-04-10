@@ -1,6 +1,8 @@
 ## [Unreleased/Working on]
 
-### [1.xx.x] - T.B.D.
+## [Released]
+
+### [1.14.0] - 10-04-2023
 
 #### [NEW]
 
@@ -41,8 +43,6 @@
 - Fixed an issue where embeds of users without any statistics would fail
 - Fixed an issue where embeds of server without any statistics would fail
 - Fixed an issue where deleted reactions would cause an error
-
-## [Released]
 
 ### [1.13.2] - 17-03-2023
 
