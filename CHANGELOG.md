@@ -1,12 +1,12 @@
 ## [Unreleased/Working on]
 
-### [1.14.1] - T.B.D.
+## [Released]
+
+### [1.14.1] - 18-04-2023
 
 #### [Bugfixes]
 
 - Fix for message text selects not working properly
-
-## [Released]
 
 ### [1.14.0] - 10-04-2023
 
