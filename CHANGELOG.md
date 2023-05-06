@@ -1,5 +1,15 @@
 ## [Unreleased/Working on]
 
+### [1.14.2] - T.B.D.
+
+#### [NEW]
+
+- Add list command for tags
+
+#### [Changes]
+
+- List commands for reminders, giveaways and polls now return all polls in the server and not the ones that are specific to the initiator
+
 ## [Released]
 
 ### [1.14.1] - 18-04-2023
