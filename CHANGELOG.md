@@ -10,6 +10,7 @@
 #### [Changes]
 
 - List commands for reminders, giveaways and polls now return all polls in the server and not the ones that are specific to the initiator
+- Command parameters which require to insert a time string, f.e. 1h, now support days, f.e. 2d
 
 #### [Bugfixes]
 
