@@ -5,6 +5,7 @@
 #### [NEW]
 
 - Add list command for tags
+- Added commands to convert: days, hours, minutes and seconds to a total amount of settings (`/utils convert_to_seconds`)
 
 #### [Changes]
 
