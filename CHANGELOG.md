@@ -7,6 +7,10 @@
 - Add list command for tags
 - Added commands to convert: days, hours, minutes and seconds to a total amount of settings (`/utils convert_to_seconds`)
 
+#### [BREAKING]
+
+- Disabled the Twitter monitor for ALL servers, because of the new Twitter API changes and limitations of the free API. All settings regarding this Twitter monitor (f.e. monitored twitter accounts, twitter updates channel, etc.) will be retained (until removed by the servers admin, f.e. by disabling the socials module!). We will keep an eye on possible updates and will enable this module again when possible!
+
 #### [Changes]
 
 - List commands for reminders, giveaways and polls now return all polls in the server and not the ones that are specific to the initiator
