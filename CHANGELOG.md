@@ -6,6 +6,7 @@
 
 - Add list command for tags
 - Added commands to convert: days, hours, minutes and seconds to a total amount of settings (`/utils convert_to_seconds`)
+- Added a function to transcribe voice messages (`/transcribe_voice_message`)! DISCLAIMER: The audio files will be downloaded to use for the transciption, once transcribed, they will be deleted IMMEDIATELY!
 
 #### [BREAKING]
 
@@ -36,7 +37,7 @@
 - Added Message Statistcs to the `ServerStats` module!
 - Added the ability to send tags by tagging Husqy. To do this use `@Husqy tag "tag_name"`, make sure the `@Husqy` is a tag, NOT text!
 - Added the ability to check the safety of domains using the new `/utils domain validate_safety` command! This command can be used 2x/user every 5 minutes!
-- Added the ability to generate QR-cide with the new `/utils generate_qr` command!
+- Added the ability to generate QR-code with the new `/utils generate_qr` command! DISCLAIMER: The generated QR-code will be saved to send the image, after sending, the saved image will be deleted IMMEDIATELY!
 
 #### [BREAKING]
 
