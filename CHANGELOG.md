@@ -10,6 +10,10 @@
 
 - List commands for reminders, giveaways and polls now return all polls in the server and not the ones that are specific to the initiator
 
+#### [Bugfixes]
+
+- Fix for polls
+
 ## [Released]
 
 ### [1.14.1] - 18-04-2023
