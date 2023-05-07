@@ -6,6 +6,7 @@
 
 - Add list command for tags
 - Added commands to convert: days, hours, minutes and seconds to a total amount of settings (`/utils convert_to_seconds`)
+- Added the Higher/Lower game (`/games higher_lower`)
 - Added a function to transcribe voice messages (`/transcribe_voice_message`)! DISCLAIMER: The audio files will be downloaded to use for the transciption, once transcribed, they will be deleted IMMEDIATELY!
 
 #### [BREAKING]
