@@ -22,6 +22,8 @@
 #### [Bugfixes]
 
 - Fix for polls
+- Fix for modal utility
+- Fix for embed utility
 
 ## [Released]
 
