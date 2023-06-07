@@ -9,6 +9,7 @@
 - Added the Higher/Lower game (`/games higher_lower`)
 - Added `/meme` command to get random memes
 - Added a function to transcribe voice messages (`/transcribe_voice_message`)! DISCLAIMER: The audio files will be downloaded to use for the transciption, once transcribed, they will be deleted IMMEDIATELY!
+- Added RSS monitoring to the socials module
 
 #### [BREAKING]
 
