@@ -20,6 +20,7 @@
 - List commands for reminders, giveaways and polls now return all polls in the server and not the ones that are specific to the initiator
 - Command parameters which require to insert a time string, f.e. 1h, now support days, f.e. 2d
 - Removed metrics graphs from info commands!
+- Reminder messages no longer disappear after one minute which may have caused some confusion. A reminder message will be visiable until one of the interactions is chosen.
 
 #### [Bugfixes]
 
