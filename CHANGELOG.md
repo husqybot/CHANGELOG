@@ -1,6 +1,8 @@
 ## [Unreleased/Working on]
 
-### [1.15.0] - T.B.D.
+## [Released]
+
+### [1.15.0] - 18-06-2023
 
 #### [NEW]
 
@@ -27,8 +29,6 @@
 - Fix for polls
 - Fix for modal utility
 - Fix for embed utility
-
-## [Released]
 
 ### [1.14.1] - 18-04-2023
 
