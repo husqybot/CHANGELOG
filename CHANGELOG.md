@@ -1,5 +1,11 @@
 ## [Unreleased/Working on]
 
+### [1.15.1] - T.B.D
+
+#### [Bugfixes]
+
+- Fixed an issue where RSS feeds without a description would not send new messages
+
 ## [Released]
 
 ### [1.15.0] - 18-06-2023
