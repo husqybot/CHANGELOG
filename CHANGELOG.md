@@ -5,6 +5,9 @@
 #### [Bugfixes]
 
 - Fixed an issue where RSS feeds without a description would not send new messages
+- Fixed an issue where reminders would not be inserted into the database in the correct way
+- Fixed an issue where the invite link would not be inserted into the database the correct way
+- Translation fixes
 
 ## [Released]
 
