@@ -2,6 +2,10 @@
 
 ### [1.15.1] - T.B.D
 
+#### [Changes]
+
+- Removed reminder acknowledge button from DM reminders, DM reminders will be deleted from the database immediately
+
 #### [Bugfixes]
 
 - Fixed an issue where RSS feeds without a description would not send new messages
@@ -31,7 +35,7 @@
 - List commands for reminders, giveaways and polls now return all polls in the server and not the ones that are specific to the initiator
 - Command parameters which require to insert a time string, f.e. 1h, now support days, f.e. 2d
 - Removed metrics graphs from info commands!
-- Reminder messages no longer disappear after one minute which may have caused some confusion. A reminder message will be visiable until one of the interactions is chosen.
+- Reminder messages no longer disappear after one minute which may have caused some confusion. A reminder message will be visiable until one of the interactions is chosen. Note: Reminders will be saved until acknowledged (check box component) or until a new reminder is created based of the reminder (repeat box compontent)
 
 #### [Bugfixes]
 
