@@ -1,5 +1,11 @@
 ## [Unreleased/Working on]
 
+### [1.15.2] - T.B.D.
+
+#### [Bugfixes]
+
+- Fixed an issue where RSS feeds without a description would not send new messages
+
 ## [Released]
 
 ### [1.15.1] - 07-07-2023
@@ -10,7 +16,6 @@
 
 #### [Bugfixes]
 
-- Fixed an issue where RSS feeds without a description would not send new messages
 - Fixed an issue where reminders would not be inserted into the database in the correct way
 - Fixed an issue where the invite link would not be inserted into the database the correct way
 - Translation fixes
