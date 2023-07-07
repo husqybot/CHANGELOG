@@ -1,6 +1,8 @@
 ## [Unreleased/Working on]
 
-### [1.15.1] - T.B.D
+## [Released]
+
+### [1.15.1] - 07-07-2023
 
 #### [Changes]
 
@@ -12,8 +14,6 @@
 - Fixed an issue where reminders would not be inserted into the database in the correct way
 - Fixed an issue where the invite link would not be inserted into the database the correct way
 - Translation fixes
-
-## [Released]
 
 ### [1.15.0] - 18-06-2023
 
