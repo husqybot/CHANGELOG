@@ -5,6 +5,7 @@
 #### [Bugfixes]
 
 - Fixed an issue where RSS feeds without a description would not send new messages
+- Fixed an issue where removing a reaction from a reaction role would not remove the role from the user
 
 ## [Released]
 
