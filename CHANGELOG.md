@@ -2,9 +2,9 @@
 
 ### [1.15.2] - T.B.D.
 
-#### [Changes]
+#### [BREAKING]
 
-- Removed the user discriminator variable to comply with the new Discord Username migration
+- Removed the user discriminator variable to comply with the new Discord Username migration. IF YOU HAVE USED THIS VARIABLE IN SOME CONFIGURATION, PLEASE CHANGE THIS ASAP!
 
 #### [Bugfixes]
 
