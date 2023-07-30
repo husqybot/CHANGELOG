@@ -2,6 +2,10 @@
 
 ### [1.15.2] - T.B.D.
 
+#### [Changes]
+
+- Removed the user discriminator variable to comply with the new Discord Username migration
+
 #### [Bugfixes]
 
 - Fixed an issue where RSS feeds without a description would not send new messages
