@@ -23,6 +23,7 @@
 - Fixed an issue where the Tickets module wouldn't be enabled correctly
 - Fixed an issue where RSS feeds without a description would not send new messages
 - Fixed an issue where removing a reaction from a reaction role would not remove the role from the user
+- Fix for reminder list command
 
 ## [Released]
 
