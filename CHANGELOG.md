@@ -1,6 +1,10 @@
 ## [Unreleased/Working on]
 
-### [1.15.2] - T.B.D.
+### [1.16.0] - T.B.D.
+
+#### [NEW]
+
+- Implement an all new Husqy web dashboard (https://dashboard.husqy.xyz/)
 
 #### [BREAKING]
 
@@ -8,6 +12,10 @@
 
 #### [Bugfixes]
 
+- Fixed an issue where giveaways would not comply with custom winner counts
+- Fixed an issue where giveaways would send multiple winner messages on a finished giveaway
+- Fixed an issue where the counter panel wouldn't enable
+- Fixed an issue where the Tickets module wouldn't be enabled correctly
 - Fixed an issue where RSS feeds without a description would not send new messages
 - Fixed an issue where removing a reaction from a reaction role would not remove the role from the user
 
