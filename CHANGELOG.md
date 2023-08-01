@@ -5,6 +5,7 @@
 #### [NEW]
 
 - Implement an all new Husqy web dashboard (https://dashboard.husqy.xyz/)
+- Add Dashboard and API links to `/support`
 
 #### [BREAKING]
 
