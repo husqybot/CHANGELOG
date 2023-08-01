@@ -10,6 +10,7 @@
 #### [BREAKING]
 
 - Removed the user discriminator variable to comply with the new Discord Username migration. IF YOU HAVE USED THIS VARIABLE IN SOME CONFIGURATION, PLEASE CHANGE THIS ASAP!
+- The Twitter compontent of the socials module is officially removed including all data configured by the server!
 
 #### [Changes]
 
