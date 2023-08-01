@@ -11,6 +11,10 @@
 
 - Removed the user discriminator variable to comply with the new Discord Username migration. IF YOU HAVE USED THIS VARIABLE IN SOME CONFIGURATION, PLEASE CHANGE THIS ASAP!
 
+#### [Changes]
+
+- ID's generated for different entries are now full uuid4 ID's
+
 #### [Bugfixes]
 
 - Fixed an issue where giveaways would not comply with custom winner counts
