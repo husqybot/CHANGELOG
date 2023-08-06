@@ -13,6 +13,7 @@
 - Removed the user discriminator variable to comply with the new Discord Username migration. IF YOU HAVE USED THIS VARIABLE IN SOME CONFIGURATION, PLEASE CHANGE THIS ASAP!
 - The Twitter compontent of the socials module is officially removed including all data configured by the server!
 - Removed the `/settings update` command in favour of the new Husqy Dashboard
+- Removed the `/settings module` command in favour of the new Husqy Dashboard
 
 #### [Changes]
 
