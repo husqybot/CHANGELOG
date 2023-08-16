@@ -1,12 +1,14 @@
 ## [Unreleased/Working on]
 
-### [1.16.0] - T.B.D.
+## [Released]
+
+### [1.16.0] - 16-08-2023
 
 #### [NEW]
 
 - Implement an all new Husqy dashboard (https://dashboard.husqy.xyz/)
-- Add Dashboard and API links to `/support`
-- Add Twitch monitoring component to the Socials module
+- Add Dashboard link to `/support`
+- Add Twitch monitoring component to the Socials module (Beta! Functionality might not work as intended!)
 - Add `/privacy` command to allow you to manage your privacy settings in the selected or all servers you share with Husqy. Please beware of the consequenses of all changes you do with this command and read the messages very carefully and always double check data after deletion (of something is wrong, please contact our support ASAP so we can assist you further and fix the issue)!
 
 #### [BREAKING]
@@ -30,8 +32,6 @@
 - Fixed an issue where removing a reaction from a reaction role would not remove the role from the user
 - Fix for reminder list command
 - Fixed an issue where joining Husqy joining a tempchannel would mention the channel instead of making it a text format
-
-## [Released]
 
 ### [1.15.1] - 07-07-2023
 
