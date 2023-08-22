@@ -1,12 +1,12 @@
 ## [Unreleased/Working on]
 
-## [Released]
-
-### [1.16.1] - 22-08-2023
+### [1.16.1] - T.B.D
 
 #### [Changes]
 
 - Fixed an issue where settings where not updating correctly!
+
+## [Released]
 
 ### [1.16.0] - 16-08-2023
 
