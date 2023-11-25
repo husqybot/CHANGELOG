@@ -2,6 +2,12 @@
 
 ## [Released]
 
+### [1.16.3] - 25-11-2023
+
+#### [Bugfixes]
+
+- Fixed starup issue
+
 ### [1.16.2] - 25-11-2023
 
 #### [Bugfixes]
