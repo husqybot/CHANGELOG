@@ -1,12 +1,12 @@
 ## [Unreleased/Working on]
 
-### [1.16.2] - T.B.D.
+## [Released]
+
+### [1.16.2] - 25-11-2023
 
 #### [Bugfixes]
 
 - Fixed an issue where user_mention variable would not work!
-
-## [Released]
 
 ### [1.16.1] - 23-08-2023
 
