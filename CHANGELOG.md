@@ -1,5 +1,12 @@
 ## [Unreleased/Working on]
 
+### [1.16.4] - T.B.D.
+
+#### [Bugfixes]
+
+- Fixed an issue where the seek command didn't work properly
+- Fixed an issue with version number display
+
 ## [Released]
 
 ### [1.16.3] - 25-11-2023
