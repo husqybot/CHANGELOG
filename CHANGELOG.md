@@ -2,10 +2,16 @@
 
 ### [1.16.4] - T.B.D.
 
+#### [Changes]
+
+- Internal code cleanup
+
 #### [Bugfixes]
 
 - Fixed an issue where the seek command didn't work properly
 - Fixed an issue with version number display
+- Fix `/tempchannel edit` command not being logged by serverstats module (command usage stats)
+- Fix `/tempchannel edit` command not responding when not selecting tempchannel
 
 ## [Released]
 
