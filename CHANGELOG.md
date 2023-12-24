@@ -12,6 +12,7 @@
 - Fixed an issue with version number display
 - Fix `/tempchannel edit` command not being logged by serverstats module (command usage stats)
 - Fix `/tempchannel edit` command not responding when not selecting tempchannel
+- Fix issue where `/tag create` would not check successful tag insert
 
 ## [Released]
 
