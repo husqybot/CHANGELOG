@@ -11,6 +11,7 @@
 
 - Fixed an issue where the seek command didn't work properly
 - Fixed an issue with version number display
+- Fix for `/tempchannel edit` not working
 - Fix `/tempchannel edit` command not being logged by serverstats module (command usage stats)
 - Fix `/tempchannel edit` command not responding when not selecting tempchannel
 - Fix issue where `/tag create` would not check successful tag insert
