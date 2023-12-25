@@ -5,6 +5,7 @@
 #### [Changes]
 
 - Internal code cleanup
+- Remove choices limit calculation on Polls based on answer amount
 
 #### [Bugfixes]
 
