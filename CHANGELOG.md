@@ -16,6 +16,7 @@
 - Fix `/tempchannel edit` command not responding when not selecting tempchannel
 - Fix issue where `/tag create` would not check successful tag insert
 - Fixed an issue where the RSS monitor would not send all RSS updates if some are missed
+- Fixed serverstats counter panel for larger servers (abbr. to K (thousand, 1000 > 1K) or M (million, 1000000 > 1M))
 
 ## [Released]
 
