@@ -6,6 +6,7 @@
 
 - Internal code cleanup
 - Remove choices limit calculation on Polls based on answer amount
+- Change for tempchannels and permission overwrites (added some overwrites when claiming or transferring ownership). Note: When claiming or transferring an tempchannel, all overwrites will be reset so the new owner can configure the channel to their liking!
 
 #### [Bugfixes]
 
