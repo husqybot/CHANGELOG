@@ -2,6 +2,12 @@
 
 ## [Released]
 
+### [1.16.5] - 06-01-2024
+
+#### [Bugfixes]
+
+- Fixed an issue where Husqy wouldn't start
+
 ### [1.16.4] - 06-01-2024
 
 #### [Changes]
