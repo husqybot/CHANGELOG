@@ -1,6 +1,8 @@
 ## [Unreleased/Working on]
 
-### [1.16.4] - T.B.D.
+## [Released]
+
+### [1.16.4] - 06-01-2024
 
 #### [Changes]
 
@@ -19,8 +21,6 @@
 - Fixed an issue where the RSS monitor would not send all RSS updates if some are missed
 - Fixed serverstats counter panel for larger servers (abbr. to K (thousand, 1000 > 1K) or M (million, 1000000 > 1M))
 - Fixed an issue where old serverstats message statistics where not deleted
-
-## [Released]
 
 ### [1.16.3] - 25-11-2023
 
