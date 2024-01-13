@@ -1,5 +1,11 @@
 ## [Unreleased/Working on]
 
+### [1.16.6] - T.B.D.
+
+#### [Changes]
+
+- Removed the support for the message commands (only one command was added here, this was `@Husqy tag "tag_name"`)
+
 ## [Released]
 
 ### [1.16.5] - 06-01-2024
