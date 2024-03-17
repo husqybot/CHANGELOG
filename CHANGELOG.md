@@ -1,12 +1,17 @@
 ## [Unreleased/Working on]
 
-### [1.16.6] - T.B.D.
+## [Released]
+
+### [1.16.6] - 17-03-2024
 
 #### [Changes]
 
 - Removed the support for the message commands (only one command was added here, this was `@Husqy tag "tag_name"`)
+- `/skip` command no longer stops and disconnects Husqy when the queue is empty
 
-## [Released]
+#### [Bugfixes]
+
+- Fixed an issue with Husqy audio
 
 ### [1.16.5] - 06-01-2024
 
