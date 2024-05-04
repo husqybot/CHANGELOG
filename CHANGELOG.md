@@ -1,12 +1,12 @@
 ## [Unreleased/Working on]
 
-### [1.16.7] - T.B.D.
+## [Released]
+
+### [1.16.7] - 04-05-2024
 
 #### [Bugfixes]
 
 - Small bugfix for audio
-
-## [Released]
 
 ### [1.16.6] - 17-03-2024
 
