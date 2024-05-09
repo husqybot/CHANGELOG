@@ -2,6 +2,12 @@
 
 ## [Released]
 
+### [1.16.8] - 09-05-2024
+
+#### [Bugfixes]
+
+- Small bugfix for audio
+
 ### [1.16.7] - 04-05-2024
 
 #### [Bugfixes]
